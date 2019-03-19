@@ -5,10 +5,10 @@
 	id ="com.phonegap.app1"
 	version ="1.0.0">
 	
-	<name>app-2019 Datos del Disposiutivo</name>
+	<name>app-2019 Datos del Dispositivo</name>
 	
 	<description>
-	Aplkicaciones que nos muiestra la infromacion referente al Dispositivo Movil
+	Aplicaciones que nos muestra la informacion referente al Dispositivo Movil
 	</description>
 	
 	<author href="https://build.phonegap.com" emal="cb16.galindo.rodriguez.esteban@gmail.com">
@@ -25,9 +25,9 @@
 	<preference name="permissions" value="INTERNET" />
 	
 	<!--Plugins-->
-	<plugin name="cordova-pligun-device" spec="~1.1.1" />
-	<plugin name="cordova-pligun-vibration" spec="~2.1.3" />
-	<plugin name="cordova-pligun-dialogs" spec="~1.3.1" />
+	<plugin name="cordova-plugin-device" spec="~1.1.1" />
+	<plugin name="cordova-plugin-vibration" spec="~2.1.3" />
+	<plugin name="cordova-plugin-dialogs" spec="~1.3.1" />
 	
 	<!--<plugin name="cordova-plugin.geolocation" source="npm" />-->
 	
