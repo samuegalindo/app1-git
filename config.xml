@@ -16,7 +16,7 @@
 	</author>
 	
 	<!--Personaliza la aplicacion y plataforma -->
-	<preference name="orientation"			value="default" />
+	<preference name="orientation"			value="defult" />
 	<!--<preference name="orientation"			value="portrait"/>
 	<preference name="orientation"			value="landscape" /> -->
 	<preference namne="target-device"			value="universal" />
